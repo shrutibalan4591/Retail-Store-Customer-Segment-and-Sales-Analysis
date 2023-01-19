@@ -1,8 +1,7 @@
-# Retail-Store-Customer-Segmentation
+# Retail-Store-Customer-Segment-and-Sales-Analysis
 
 ## About the Project:
 This virtual experience program focuses on FMCG (fast-moving consumer goods). More specifically, we are looking at the sales pattern of the chips category in a particular retail store.
-This project focuses on FMCG (fast-moving consumer goods). More specifically, we are looking at the sales pattern of the chips category in a particular retail store.
 
 This project comprises of 3 tasks:
 ### Task 1: Data preparation and customer analytics
