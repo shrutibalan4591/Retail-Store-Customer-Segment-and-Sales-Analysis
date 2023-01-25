@@ -1,7 +1,7 @@
 # Retail-Store-Customer-Segment-and-Sales-Analysis
 
 ## About the Project:
-This project focuses on FMCG (fast-moving consumer goods). More specifically, we are looking at the sales pattern of the chips category in a particular retail store.
+This project looks at the sales pattern of a product category in a retail store, using the store’s transaction dataset and identifying customer purchase behavior, to generate insights and recommendations.
 
 This project comprises of 3 tasks:
 ### Task 1: Data preparation and customer analytics
