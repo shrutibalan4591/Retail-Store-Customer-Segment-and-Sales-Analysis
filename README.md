@@ -33,6 +33,7 @@ Below are some of the areas we focus on:
 **Collate findings** – summarise the findings for each store and provide an recommendation that we can share with the store,  outlining the impact on sales during the trial period.
 
 ### Task 3: Analytics and commercial application
-Use analytics and insights from Task 1 and 2 to prepare a report for the client(the retail store).
+Use analytics and insights from Task 1 and 2 to prepare a report for the client(the retail store).(This document is not included in this repo.)
+
 
 
